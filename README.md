@@ -1,7 +1,7 @@
 # Image Keywording by CLIP
 
-Code for finding the most suitable keywords for images from the pre-defined vocabulary using a [OpenAi-CLIP](https://github.com/openai/CLIP).
-UPD. Added a method to find images by target queries.
+Code for finding the most suitable keywords for images from the pre-defined vocabulary using a [OpenAi-CLIP](https://github.com/openai/CLIP).  
+*UPD.* Added a method to find images by target queries.
 
 ## Image Keywording usage
 Set the variables in `settings.py` (load your images and vocabulary), then run
